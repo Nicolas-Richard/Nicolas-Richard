@@ -6,8 +6,8 @@ I mainly code in Python and Bash, with some experience in Ruby and Go.
 
 I've also shared insights on Chime's engineering blog:
 
-* **How We Preview Kubernetes Changes at Chime:** [https://medium.com/life-at-chime/how-we-preview-kubernetes-changes-at-chime-5b4871847c5e](https://medium.com/life-at-chime/how-we-preview-kubernetes-changes-at-chime-5b4871847c5e)
-* **How We Upgraded Our Core Database with Just 5 Minutes of Downtime:** [https://careers.chime.com/en/life-at-chime/engineering-at-chime/how-we-upgraded-our-core-database-with-just-5-minutes-of-downtime/](https://careers.chime.com/en/life-at-chime/engineering-at-chime/how-we-upgraded-our-core-database-with-just-5-minutes-of-downtime/)
+* **How We Preview Kubernetes Changes at Chime:** [2024] [https://medium.com/life-at-chime/how-we-preview-kubernetes-changes-at-chime-5b4871847c5e](https://medium.com/life-at-chime/how-we-preview-kubernetes-changes-at-chime-5b4871847c5e)
+* **How We Upgraded Our Core Database with Just 5 Minutes of Downtime:** [2025] [https://careers.chime.com/en/life-at-chime/engineering-at-chime/how-we-upgraded-our-core-database-with-just-5-minutes-of-downtime/](https://careers.chime.com/en/life-at-chime/engineering-at-chime/how-we-upgraded-our-core-database-with-just-5-minutes-of-downtime/)
 
 
 ### 💬 Ask me about ...
